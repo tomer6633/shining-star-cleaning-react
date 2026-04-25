@@ -4,7 +4,12 @@ export default {
     extend: {
       fontFamily: { oswald: ['Oswald', 'sans-serif'], inter: ['Inter', 'sans-serif'] },
       colors: {
-        brand: { primary: '#1A5276', accent: '#58D68D', light: '#EBF5FB', dark: '#0D2137' }
+        brand: {
+          primary: '#1A5276',
+          accent: '#2ECC71',
+          light: '#EBF5FB',
+          dark: '#0D2137',
+        }
       }
     }
   },
